@@ -53,7 +53,7 @@ export default defineComponent({
   width: 3.6rem;
   height: 3.6rem;
   border-radius: 50%;
-  box-shadow: 0 0 16px 0 rgba(0, 0, 0, 0.4)
+  box-shadow: 0 0 16px 0 rgba(0, 0, 0, 0.4);
 }
 
 .item__link,
