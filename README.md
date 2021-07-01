@@ -32,10 +32,11 @@ Mostrar una lista de cursos con el título, summary, foto, tal como se muestra e
 - Crear los tests unitarios para el caso de uso "Visualizar Cursos".
 - Importante que los tests unitarios, usen Testing Library.
 - Testear unitariamente creando abstracción de los sistemas externos con Jest Mock (por ejemplo una API)
-- Crear Object Factories si es necesario.
-- Usar el patrón Page Object si es necesario.
+- Crear Object Factories es un plus.
+- Usar el patrón Page Object si es necesario es un plus.
 
 #### Implementación
+- Lenguaje de programación Typescript
 - Usar Composition API de Vue 3
 - Crear una Fake API, simulando el comportamiento usando Promises y extrayendo contenido de un JSON estático (En producción se usará una API)
 - Usar Composable Functions. Mas información: https://labs.thisdot.co/blog/custom-composable-methods-with-vue-3
