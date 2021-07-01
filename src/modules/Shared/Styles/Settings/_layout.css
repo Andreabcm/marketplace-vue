@@ -4,22 +4,20 @@
             "ml-sidebar ml-head-bar"
             "ml-sidebar ml-main-container";
 
-    --g-template-main-container: 1fr / clamp(18.0rem, 30vw, 33.0rem) 1fr;
+    --g-template-main-container: 1fr / 1fr;
     --g-areas-main-container:
-            "ml-main-nav    ml-main-content";
+            "ml-main-content";
 
     --g-template-main-container--mobile--: 1fr / 1fr;
     --g-areas-main-container--mobile--:
             "ml-main-content";
 
-    --g-template-main-nav: 4.5rem 1fr 6.0rem / 1fr;
+    --g-template-main-nav: 4.5rem 1fr / 1fr;
     --g-areas-main-nav:
             "ml-main-nav-header"
-            "ml-main-nav-content"
-            "ml-nav-footer";
+            "ml-main-nav-content";
 
-    --g-template-main-content: auto 6.0rem / 1fr;
+        --g-template-main-content: auto / 1fr;
     --g-areas-main-content:
-            "ml-main-content-content"
-            "ml-main-footer";
+            "ml-main-content-content";
 }
