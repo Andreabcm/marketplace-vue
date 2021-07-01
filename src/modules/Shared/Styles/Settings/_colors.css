@@ -1,0 +1,11 @@
+:root {
+  /* main */
+  --color-main-brand: #5677fc;
+
+  /* neutrals */
+  --color-neutral-white: #fff;
+  --color-neutral-gray-100: #fbfbfb;
+  --color-neutral-gray-200: #f9faff;
+  --color-neutral-gray-300: #d1d1d1;
+  --color-neutral-gray-400: #454545;
+}

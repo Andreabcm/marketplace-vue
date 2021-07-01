@@ -1,0 +1,24 @@
+:root {
+    /*Loaded in public/index.html*/
+    --font-family-base: Roboto, sans-serif;
+    --font-size-root: 62.5%;
+    --font-size-base: 1.5rem;
+    --font-line-height-base: 1.5;
+    --font-family-icons: "Material Icons";
+    --i-size-sm: 1.8rem;
+    --i-size-md: 2.4rem;
+    --i-size-lg: 3.6rem;
+    --i-size-sxl: 4.0rem;
+    --i-size-xl: 4.8rem;
+}
+
+/*Material Icons*/
+/* fallback */
+@font-face {
+    font-family: "Material Icons";
+    font-style: normal;
+    font-weight: 400;
+    /*url(https://fonts.gstatic.com/s/materialicons/v87/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.woff2)*/
+    src: url("../../../../assets/fonts/MaterialIcons-Regular.woff2") format("woff2");
+}
+
