@@ -12,7 +12,7 @@ yarn install
 
 ### ⌨️ Compiles and hot-reloads for development
 ```bash
-# serve with hot reload at localhost:3000
+# serve with hot reload at localhost:8080
 yarn serve
 ```
 
