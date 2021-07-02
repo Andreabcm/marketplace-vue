@@ -1,13 +1,13 @@
 <template>
   <li class="item" :class="{ 'item--hover': hoverShift }">
-    <router-link v-if="url" :to="url" class="item__link">
+    <a v-if="url" href="javascript:;" class="item__link">
       <img v-if="img" :src="img" :alt="alt || 'image'" class="item__image" />
       <I
         :glyph="icon"
         :color="color"
         :class="{ 'i--shift-color': hoverShift }"
       />
-    </router-link>
+    </a>
     <button v-if="action" class="item__button">
       <I
         :glyph="icon"
