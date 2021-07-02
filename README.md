@@ -39,7 +39,7 @@ Mostrar una lista de cursos con el título, summary, foto, tal como se muestra e
 - Lenguaje de programación Typescript
 - Usar Composition API de Vue 3
 - Crear una Fake API, simulando el comportamiento usando Promises y extrayendo contenido de un JSON estático (En producción se usará una API)
-- Usar Composable Functions. Mas información: https://labs.thisdot.co/blog/custom-composable-methods-with-vue-3
+- Usar Composable Functions es un plus. Mas información: https://labs.thisdot.co/blog/custom-composable-methods-with-vue-3
 
 ### Entrega
 1. Crear un fork del proyecto
