@@ -2,6 +2,7 @@
   <MainLayout>
     <template v-slot:main-content>
       <h1>INCLUSIVE TECH: BUILDING YOUR TEAM</h1>
+      <h2>Hola mundo </h2>
     </template>
   </MainLayout>
 </template>
