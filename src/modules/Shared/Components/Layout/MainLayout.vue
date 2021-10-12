@@ -1,5 +1,6 @@
 <template>
   <div class="main-layout">
+    <h1>Marketplace</h1>
     <Sidebar class="main-layout__sidebar" />
     <HeadBar class="main-layout__head-bar" />
     <main class="main-layout__main-container">
